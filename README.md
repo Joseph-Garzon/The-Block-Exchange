@@ -1,3 +1,11 @@
 # Gamer-Project
 The gamerest website
-a
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gamer Articles</title>
+</head>
+<body>
+	
+</body>
+</html>
