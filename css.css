@@ -3,6 +3,8 @@ body {
 	background-repeat:no-repeat;
     background-size:cover;
     position: relative;
+    overflow: scroll;
+    overflow-x: hidden;
 }
 img{
 	width: 80%;
