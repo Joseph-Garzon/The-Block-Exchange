@@ -23,11 +23,6 @@ img{
 	z-index: 100;
     position:relative;
 }
-body {
-  background-image: url("https://i1.wp.com/wallur.com/wp-content/uploads/2016/12/minecraft-background-9.png?fit=1920%2C1080");
-  background-repeat:no-repeat;
-    background-size:cover;
-}
 .col-sm{
 	border-width: 200px;
 	background-color: white;
