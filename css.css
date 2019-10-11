@@ -2,4 +2,24 @@ body {
 	background-image: url("https://i1.wp.com/wallur.com/wp-content/uploads/2016/12/minecraft-background-9.png?fit=1920%2C1080");
 	background-repeat:no-repeat;
     background-size:cover;
+    position: relative;
+}
+img{
+	width: 80%;
+	align-content: center;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20%;
+}
+.carousel{
+	margin-top: 100px;
+	align-self: center;
+	align-content: center;
+}
+.carousel-control-prev-icon{
+	width: 20px;
+	/*margin-right:-300px;*/
+	z-index: 100;
+    position:relative;
 }
