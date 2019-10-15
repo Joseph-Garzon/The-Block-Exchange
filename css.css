@@ -1,7 +1,10 @@
 body {
 	background-image: url("https://i1.wp.com/wallur.com/wp-content/uploads/2016/12/minecraft-background-9.png?fit=1920%2C1080");
-	background-repeat:no-repeat;
-    background-size:cover;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
     position: relative;
     overflow: scroll;
     overflow-x: hidden;
@@ -37,7 +40,3 @@ img{
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-
-
-
