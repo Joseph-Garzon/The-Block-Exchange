@@ -10,7 +10,7 @@ body {
     overflow: scroll;
     overflow-x: hidden;
 }
-img{
+.carousel img{
 	width: 80%;
 	align-content: center;
 	align-self: center;
