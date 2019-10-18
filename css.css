@@ -29,14 +29,14 @@ body {
 	/*margin-right:-300px;*/
 	z-index: 100;
     position:relative;
-    left: 175px;
+    left: 57%;
 }
 .carousel-control-next-icon{
 	width: 20px;
 	/*margin-right:-300px;*/
 	z-index: 100;
     position:relative;
-    right: 200px;
+    right: 70%;
 }
 .dropdown:hover .dropdown-content {
   display: block;
@@ -68,14 +68,3 @@ body {
 	margin-left: auto;
 	margin-right: auto;	
 }*/
-
-
-
-
-
-
-
-
-
-
-
