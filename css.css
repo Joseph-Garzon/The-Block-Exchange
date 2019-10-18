@@ -38,23 +38,44 @@ body {
     position:relative;
     right: 200px;
 }
-.col-sm{
-	border-width: 200px;
-	background-color: white;
-	margin top: 10px;
-	padding: 10px;
-
-}
-
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
 .carousel-caption-b{
 	color: whitesmoke;
 	size: 150%;
 }
-
 .carousel-caption-c{
 	color: whitesmoke;
 }
+
+.card{
+	margin-top: 20px;
+	align-self: center;
+	align-content: center;
+}
+.FinalRow{
+	margin-bottom: 20px;
+}
+.col-sm-12 {
+	padding: 10px;
+	margin-bottom: 0px;
+}
+/*.card-img-top{
+	width: 100%;
+	align-content: center;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;	
+}*/
+
+
+
+
+
+
+
+
+
+
+
