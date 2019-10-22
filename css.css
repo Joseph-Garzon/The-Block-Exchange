@@ -55,8 +55,14 @@ body {
 	align-self: center;
 	align-content: center;
 }
-.FinalRow{
-	margin-bottom: 20px;
+ .FinalRow{
+ 	margin-bottom: 150px;
+ }
+ .col-sm-12 .FinalRow{
+	margin-bottom: 0px;
+}
+.col-sm-12 .finalBox{
+	margin-bottom: 150px;
 }
 .col-sm-12 {
 	padding: 10px;
