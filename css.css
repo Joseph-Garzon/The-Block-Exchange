@@ -54,6 +54,10 @@ body {
 	margin-top: 20px;
 	align-self: center;
 	align-content: center;
+
+}
+.card img{
+	height: 200px;
 }
  .FinalRow{
  	margin-bottom: 150px;
@@ -68,6 +72,29 @@ body {
 	padding: 10px;
 	margin-bottom: 0px;
 }
+.bottomSuggestions{
+	padding: 20px;
+	margin-bottom: 0px;
+}
+
+
+
+/*
+.footer{
+	width: 100%;
+   	max-height: 100px;
+    position: relative;
+    bottom: 0;
+    background-color: whitesmoke;
+    padding: 0;
+}*/
+
+
+
+
+
+
+
 /*.card-img-top{
 	width: 100%;
 	align-content: center;
