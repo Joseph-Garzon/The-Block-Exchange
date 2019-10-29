@@ -6,24 +6,45 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-   
+    position: relative;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.navbar{
+	height: 80px;
+	font-size: 20px;
 }
 
-
-
-/* Page content */
-.content {
-  padding: 16px;
+.jumbotron{
+	height: 210px;
+	color:white;
+	border-bottom: 0;
+	padding-bottom: 0 !important;
+	padding-top: 20px !important;
+	margin: 0;
+	margin-bottom: 0 !important;
 }
-
-/* The sticky class is added to the header with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%
+.jumbotron .container{
+	width: 50%;
+	float: left;
+	font-size: 20px;
 }
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 102px;
+.jumbotron img{
+	width: 80px;
+	height: 80px;
+}
+.jumbotron h1{
+	width:300px;
+}
+.Emails{
+	width: 200px;
+	justify-content: end;
+}
+.jumbotron .p{
+	color: white;
+}
+.jumbotron .Rights{
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 0 !important;
 }
