@@ -28,6 +28,7 @@ body{
 	width: 50%;
 	float: left;
 	font-size: 20px;
+	padding:0 !important;
 }
 .jumbotron img{
 	width: 80px;
